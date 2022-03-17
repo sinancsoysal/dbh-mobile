@@ -1,0 +1,226 @@
+{
+    "authentication": {
+        "login": {
+            "login": "Login",
+            "signInToYourAccount": "Sign in to your account",
+            "username": "Username",
+            "password": "Password",
+            "iDontHaveAnAccount": "I dont have an account"
+        },
+        "register": {
+            "register": "Register",
+            "createAnAccount": "Create an account",
+            "name": "NAME",
+            "surname": "SURNAME",
+            "email": "E-MAIL",
+            "phoneNumber": "PHONE NUMBER",
+            "username": "USERNAME",
+            "password": "PASSWORD",
+            "passwordConfirmation": "PASSWORD CONFIRMATION",
+            "iDontHaveAnAccount": "I dont have an account"
+        }
+    },
+    "appSelectionAndLocationMerged": {
+        "apps": "Apps",
+        "choseAnApplication": "Chose an application and a location",
+        "searchLocation": "Search Location",
+        "costControl": "COST CONTROL",
+        "folders": "FOLDERS",
+        "reports": "REPORTS",
+        "progressPayment": "PROGRESS PAYMENT",
+        "generalSituation": "GENERAL SITUATION",
+        "proceed": "Proceed",
+        "areaNotFound": "Area not found",
+        "loadingFailed": "Loading failed"
+    },
+    "slideMenu": {
+        "home": "Home",
+        "profile": "Profile",
+        "invoices": "Invoices",
+        "search": "Search",
+        "activityLog": "Activity Log",
+        "settings": "Settings",
+        "apps": "Apps",
+        "logout": "Log out"
+    },
+    "settings": {
+        "settings": "Settings",
+        "changePreferences": "Change the app preferences",
+        "profile": "Profile",
+        "appearance": "Appearance",
+        "logOut": "LOG OUT"
+    },
+    "appearance": {
+        "apeearance": "Appearance",
+        "language": "Language",
+        "customizeTheLook": "Customize the look of app"
+    },
+    "profile": {
+        "profile": "Profile",
+        "changeProfileInformation": "Change your profile information",
+        "name": "NAME",
+        "surname": "SURNAME",
+        "username": "USERNAME",
+        "permission": "PERMISSON",
+        "phoneNumber": "PHONE NUMBER",
+        "eMail": "E-MAIL",
+        "password": "PASSWORD",
+        "save": "Save"
+    },
+    "password": {
+        "currentPassword": "CURRENT PASSWORD",
+        "newPassword": "NEW PASSWORD",
+        "confirmNewPassword": "CONFIRM NEW PASSWORD",
+        "goBack": "Go Back",
+        "updatePassword": "Update Password",
+        "password": "Password"
+    },
+    "invoices": {
+        "invoices": "Invoices",
+        "search": "Company, explanation or bill number",
+        "companyName": "Company Name",
+        "explanation": "Explanation",
+        "billNumber": "Bill Number",
+        "invoicedCompany": "Invoiced Company",
+        "subExpense": {
+            "subExpenseType": {
+                "subExpenseType": "Sub Expense Type",
+                "subExpense": "Sub Expense",
+                "unit": "Unit",
+                "billType": "Bill Type",
+                "price": "Price",
+                "calculatedVat": "Calculated VAT",
+                "totalPrice": "Total Price",
+                "mainExpense": "Main Expense",
+                "Amount": "Amount",
+                "selectableVat": "Selectable VAT","date":"Date"
+            }
+        }
+    },
+    "activityLog": {
+        "processDate": "Process Date",
+        "processTime": "Process Time",
+        "processedBy": "Processed By",
+        "explanation": "Explanation",
+        "role": "Role",
+        "processType": "Process Type",
+        "details": "Details",
+        "activityLog": "Activity Log",
+        "unknown": "Unknown"
+    },
+    "search": {
+        "search": "Search",
+        "expenseItem": "Expense Item",
+        "date": "Date",
+        "billingCompany": "Billing Company",
+        "invocedCompany": "Invoiced Company",
+        "mainExpense": "Main Expense",
+        "subExpenses": "Sub Expenses",
+        "clear": "Clear"
+    },
+    "homeCostControl": {
+        "costControl": "Cost Control",
+        "areaNotFound": "Bölge seçilmedi",
+        "previousMonth": "Önceki Ay",
+        "nextMonth": "Sonraki Ay",
+        "unknown": "Bilinmeyen"
+    },
+    "loading": {
+        "loading": "Loading...",
+        "couldntReload": "Couldn't Reload"
+    },
+    "validationErrors": {
+        "emptyPassword": "Password field can not be empty",
+        "notMatching": "Passwords not matching"
+    },
+    "sort": {
+        "sortBy": "Sort By",
+        "date": "Date",
+        "user": "User",
+        "manager": "Manager",
+        "admin": "Admin"
+    },
+    "searchBar": {
+        "activity": "Name, Operation, Date",
+        "invoice": "Invoice No. Description, Company"
+    },
+
+    "folderView": {
+        "areaNotFound": "Area Not Found",
+        "folders": "Folders",
+        "items": "Items",
+        "rootDirectory": "Root Directory",
+        "categories": "Categories",
+        "unknown": "Unknown",
+        "tryAgain": "Try Again",
+        "download": "Download",
+        "downloading": "Downloading",
+        "openTheFile": "Open The File",
+        "tryDownload": "Try Download",
+        "error": "Error",
+        "canNotOpen": "Can't Open",
+        "nullOrEmptyFile": {
+            "nullFolder": "Null Folder",
+            "itLooksLikeWeCouldNotFoundTheFolder": "It looks like we couldn't found the folder.\n\nFor this reason, we can't show you the folders and items because that data doesn't exist!",
+            "foldersAndItemsAreNotExist": "Items Not Exist!",
+            "itLooksLikeThisFolderDoesNotHaveAnyFolderOrFile": "It looks like, this folder doesn't have any folder or file.\nMaybe, you can try to go back!"
+        },
+        "snackBar": {
+            "anErrorOccurredFmCredentialsCouldNot": "An error occurred. Fm credentials could not fetch from server!",
+            "errorHttpStatusCodeReturnedNullOnFmLogin": "Error: Http status code returned null on fm login!",
+            "errorFmCredentialsNotCorrect": "Error: Fm login credentials not correct!",
+            "errorFmAuthKeyCouldNotFetch": "Error: Fm auth key could not fetch!",
+            "errorFolderCouldNotFetchDueUnknownReasons": "Error: folder details couldn't load due unknown reasons.",
+            "errorFolderCouldNotFetchDueAuthTokenError": "Error: folder details couldn't load due authentication key.",
+            "errorDeletedOrMissingFolderCouldNotFetch": "Error: folder details couldn't load due folder deleted or missing.",
+            "errorUnauthorizedFolderCouldNotFetch": "Error: folder details couldn't load due insufficient authority for this folder.",
+            "errorFileCouldNotDownloadDueAuthKeyError": "Error: File couldn't load due authentication key error!",
+            "errorFileCouldNotDownloadDueDeletedOrMissingFile": "Error: File deleted or missing for this reason, file couldn't load.",
+            "errorFileCouldNotDownloadDueUnknownReasons": "Error: File couldn't load due unknown errors.",
+            "fileSuccessfullyOpened": "File Successfully Opened!",
+            "fileNotFoundOnDisk": "File Not Found On Disk!",
+            "weCouldNotDetectAnyAppCanOpenThisFile": "We couldn't detect any app, can open this file extension!",
+            "fileOpenerPermissionsDenied": "File couldn't open due file permissions not given!",
+            "fileCouldNotOpened": "File couldn't open!"
+        },
+        "errorScreen": {
+            "loginCredentialsCouldNotFetch": "Login Credentials Couldn't\nFetch",
+            "itLooksLikeWeCouldNotFetchFileManagerCredentials":"It looks like we couldn't fetch file manager credentials.\n\nYou can try to fetch credentials again or if it is not working, wait a little bit and after, try it again.",
+            "fetchCredentials": "Fetch Credentials",
+            "fileManagerCookiesCouldNotFetch": "File Manager Cookies\nCouldn't Fetch",
+            "itLooksLikeWeCouldNotFetchTheFileManagerCookies": "It looks like we couldn't fetch file manager cookies.\n\nYou can try to fetch cookies again or if it is not working, wait a little bit and after, try it again.",
+            "fetchCookies": "Fetch Cookies",
+            "folderCouldNotLoadDueUnknownReasons": "Folder Couldn't Load Due\nUnknown Reasons",
+            "itLooksLikeWeCouldNotLoadTheFolder": "It looks like we couldn't load the folder. It can be based very large scaled errors. So try to load folder again or wait a little bit and after that, try it again.",
+            "loadTheFolder": "Load The Folder",
+            "folderCouldNotLoadDueAuthTokenError": "Folder Couldn't Load Due\nAuth Key",
+            "itLooksLikeWeCouldNotLoadTheFolderDueAuthKey": "It looks like we couldn't load the folder due auth key error. It can be for needed re-login or can be based server error. In that reason, try to load folder again or wait a little bit and after that, try it again.",
+            "tryItAgain": "Try It Again",
+            "folderDeletedOrMissing": "Folder\nDeleted Or Missing",
+            "itLooksLikeWeCouldNotFoundTheFolder": "It looks like we couldn't found the folder. It can be deleted or it's name can be change. In that reason, return the previous folder.",
+            "folderPermissionsRequired": "Folder\nPermissions Required",
+            "itLooksLikeWeCouldNotLoadTheFolderDueFolderPermissions": "It looks like we couldn't load the folder due folder permissions. If you want to see folder details, you must have the view permissions.",
+            "previousFolder": "Previous Folder",
+            "fileManagerAuthenticationKeyError": "File Manager Authentication\nKey Error",
+            "itLooksLikeWeCouldNotDownloadTheFileDueAuthenticationKeyError": "It looks like we couldn't download the file due authentication key expiration.\n\nWe must re-login the file manager.",
+            "reLogin": "Re-Login",
+            "fileDeletedOrMissing": "File\nDeleted Or Missing",
+            "itLooksLikeWeCouldNotFoundTheFile": "It looks like we couldn't found the file. It can be deleted or it's name can be renamed.\nFor these reasons, refresh operation required.",
+            "refreshTheFolder": "Refresh The Folder"
+        },
+        "loadingScreen": {
+            "fileManagerInitializing": "File Manager Initializing\n...",
+            "loginCredentialsRequesting": "Login Credentials Requesting\n...",
+            "loginRequestSending": "Login Request Sending\n...",
+            "folderManagerInitializing": "Folder Manager Initializing\n...",
+            "folderDetailsFetching": "Folder Details Fetching\n..."
+        }
+    },
+
+
+    "customSnackBar":{
+        "commonErrors": {
+            "authorizationFail": "An error occurred. Fcm token is not accepted!"
+        }
+    }
+}

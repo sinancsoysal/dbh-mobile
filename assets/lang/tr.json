@@ -1,0 +1,228 @@
+{
+    "authentication": {
+        "login": {
+            "login": "Giriş Yap",
+            "signInToYourAccount": "Hesabına giriş yap",
+            "username": "KULLANICI ADI",
+            "password": "ŞİFRE",
+            "iDontHaveAnAccount": "Hesabın yok mu? Hesap oluştur."
+        },
+        "register": {
+            "register": "Kayıt Ol",
+            "createAnAccount": "Bir hesap oluştur",
+            "name": "AD",
+            "surname": "SOYAD",
+            "email": "E-POSTA",
+            "phoneNumber": "TELEFON NUMARASI",
+            "username": "KULLANICI ADI",
+            "password": "ŞİFRE",
+            "passwordConfirmation": "ŞİFRE TEKRARI",
+            "iDontHaveAnAccount": "Hesabın yok mu? Hesap oluştur."
+        }
+    },
+    "appSelectionAndLocationMerged": {
+        "apps": "Uygulamalar",
+        "choseAnApplication": "Bir uygulama ve konum seçin",
+        "searchLocation": "Konum Ara",
+        "costControl": "COST CONTROL",
+        "folders": "FOLDERS",
+        "reports": "REPORTS",
+        "progressPayment": "PROGRESS PAYMENT",
+        "generalSituation": "GENERAL SITUATION",
+        "proceed": "İlerle",
+        "areaNotFound": "Bölge bulunamadı",
+        "loadingFailed": "Yüklerken hata oluştu"
+    },
+    "slideMenu": {
+        "home": "Ana Sayfa",
+        "profile": "Profil",
+        "invoices": "Faturalar",
+        "search": "Arama",
+        "activityLog": "Aktivite Geçmişi",
+        "settings": "Ayarlar",
+        "apps": "Uygulamalar",
+        "logout": "Çıkış"
+    },
+    "settings": {
+        "settings": "Ayarlar",
+        "changePreferences": "Tercihleri Yönet",
+        "profile": "Profil",
+        "appearance": "Görünüm",
+        "logOut": "ÇIKIŞ"
+    },
+    "appearance": {
+        "apeearance": "Görünüm",
+        "language": "Dil",
+        "customizeTheLook": "Görünüşü kişiselleştirin"
+    },
+    "profile": {
+        "profile": "Profil",
+        "changeProfileInformation": "Profil bilgilerinizi düzenleyin",
+        "name": "AD",
+        "surname": "SOYAD",
+        "username": "KULLANICI ADI",
+        "permission": "YETKİ",
+        "phoneNumber": "TELEFON NUMARASI",
+        "eMail": "E-POSTA",
+        "password": "ŞİFRE",
+        "save": "Kaydet"
+    },
+    "password": {
+        "currentPassword": "ŞİFRE",
+        "newPassword": "YENİ ŞİFRE",
+        "confirmNewPassword": "YENİ ŞİFRE TEKRARI",
+        "goBack": "Geri",
+        "updatePassword": "Şifreyi Güncelle",
+        "password": "Şifre"
+    },
+    "invoices": {
+        "invoices": "Faturalar",
+        "search": "Şirket, açıklama ya da fatura no",
+        "companyName": "Firma Adı",
+        "explanation": "Açıklama",
+        "billNumber": "Fatura No",
+        "invoicedCompany": "Fatura Kesilen Firma",
+        "subExpense": {
+            "subExpenseType": {
+                "subExpenseType": "Gider Türü",
+                "subExpense": "Alt Gider",
+                "unit": "Birim",
+                "billType": "Fatura Türü",
+                "price": "Birim Fiyat",
+                "calculatedVat": "KDV",
+                "totalPrice": "Fiyat",
+                "mainExpense": "Ana Gider",
+                "Amount": "Miktar",
+                "selectableVat": "Tevkifat",
+                "date": "Tarih"
+            }
+        }
+    },
+    "activityLog": {
+        "processDate": "İşlem Tarihi",
+        "processTime": "İşlem Saati",
+        "processedBy": "Kullanıcı Adı",
+        "role": "Yetki",
+        "processType": "Yapılan İşlem",
+        "details": "Detaylar",
+        "explanation": "Açıklama",
+        "activityLog": "Activite Geçmişi",
+        "unknown": "Hata"
+    },
+    "search": {
+        "search": "Ara",
+        "expenseItem": "Gider Kalemi",
+        "date": "Tarih",
+        "billingCompany": "Fatura Kesen Firma Adı",
+        "invocedCompany": "Fatura Kesilen Firma Adı",
+        "mainExpense": "Ana Gider",
+        "subExpenses": "Alt Gider",
+        "clear": "Temizle"
+    },
+    "homeCostControl": {
+        "costControl": "Cost Control",
+        "areaNotFound": "Bölge adı bulunamadı",
+        "previousMonth": "Önceki Ay",
+        "nextMonth": "Sonraki Ay",
+        "unknown": "Bilinmeyen"
+    },
+    "loading": {
+        "loading": "Yükleniyor...",
+        "couldntReload": "Yüklenemedi"
+    },
+    "validationErrors": {
+        "emptyPassword": "Şifre boş bırakılamaz",
+        "notMatching": "Şifreler eşleşmiyor"
+    },
+    "sort": {
+        "sortBy": "Sırala",
+        "date": "Tarih",
+        "user": "Kullanıcı",
+        "manager": "Menajer",
+        "admin": "Admin"
+    },
+    "searchBar": {
+        "activity": "İsim, İşlem, Tarih",
+        "invoice": "Fatura No. Açıklama, Şirket "
+    },
+
+    "folderView": {
+        "areaNotFound": "Bölge Adı Bulunamadı",
+        "folders": "Klasörler",
+        "items": "Öğeler",
+        "rootDirectory": "Ana Dizin",
+        "categories": "Kategoriler",
+        "unknown": "Bilinmeyen",
+        "tryAgain": "Tekrar Dene",
+        "download": "İndir",
+        "downloading": "İndiriliyor",
+        "openTheFile": "Öğeyi Aç",
+        "tryDownload": "İndirmeyi Dene",
+        "error": "Hata",
+        "canNotOpen": "Can't Open",
+        "nullOrEmptyFile": {
+            "nullFolder": "Mevcut Olmayan Klasör",
+            "itLooksLikeWeCouldNotFoundTheFolder": "Görünüşe göre, erişmek istediğiniz klasörü bulamadık.\n\nBu sebeple, erişmek istediğiniz klasörün, alt klasörlerini ve diğer dosyalarını şuanlık gösteremiyoruz çünkü bu verilere ulaşamadık!",
+            "foldersAndItemsAreNotExist": "Dosyalar Mevcut Değil",
+            "itLooksLikeThisFolderDoesNotHaveAnyFolderOrFile": "Görünüşe göre, bulunduğunuz dizin herhangi bir dosya yada klasör içermiyor.\nBelki, bir üst klasöre dönmek isteyebilirsiniz."
+        },
+        "snackBar": {
+            "anErrorOccurredFmCredentialsCouldNot": "Bir hata oluştu. Fm bilgileri sunucudan alınamadı.",
+            "errorHttpStatusCodeReturnedNullOnFmLogin": "Hata: Fm servisi http durum kodu mevcut değil.",
+            "errorFmCredentialsNotCorrect": "Hata: Fm giriş bilgileri hatalı!",
+            "errorFmAuthKeyCouldNotFetch": "Hata: Fm yetki anahtarı alınamadı!",
+            "errorFolderCouldNotFetchDueUnknownReasons": "Hata: bilinmeyen nedenlerden dolayı dosya detaylarına ulaşılamadı.",
+            "errorFolderCouldNotFetchDueAuthTokenError": "Hata: yetkilendirme anahtarı nedeniyle dosya detaylarına ulaşılamadı.",
+            "errorDeletedOrMissingFolderCouldNotFetch": "Hata: silinen ya da bulunamayan dosya detaylarına ulaşılamadı.",
+            "errorUnauthorizedFolderCouldNotFetch": "Hata: yetersiz yetki sebebiyle dosya detaylarına ulaşılamadı.",
+            "errorFileCouldNotDownloadDueAuthKeyError": "Hata: dosya yetkilendirme anahtarı nedeniyle indirilemedi!",
+            "errorFileCouldNotDownloadDueDeletedOrMissingFile": "Hata: Dosya silindiği ya da bulunamadığı için indirilemedi.",
+            "errorFileCouldNotDownloadDueUnknownReasons": "Hata: Dosya bilinmeyen nedenlerden ötürü indirilemedi.",
+            "fileSuccessfullyOpened": "Dosya başarıyla açıldı!",
+            "fileNotFoundOnDisk": "Dosya diskte mevcut değil!",
+            "weCouldNotDetectAnyAppCanOpenThisFile": "Bu uzantıyı açabilecek bir uygulama tespit edemedik!",
+            "fileOpenerPermissionsDenied": "Dosya, uygulamaya gerekli izinler verilmediği için açılamadı!",
+            "fileCouldNotOpened": "Dosya açılamadı!"
+        },
+        "errorScreen": {
+            "loginCredentialsCouldNotFetch": "Gerekli Giriş Bilgileri\nYüklenemedi",
+            "itLooksLikeWeCouldNotFetchFileManagerCredentials":"Görünüşe göre, dosya yöneticisi için gerekli olan giriş bilgileri sunucudan yüklenemedi.\n\nGerekli giriş bilgilerini tekrar yüklemeyi deneyebilirsiniz, eğer tekrar yükleme işlemi tamamlanmıyorlarsa, lütfen biraz bekleyin ve daha sonra tekrar deneyin.",
+            "fetchCredentials": "Giriş Bilgilerini Yükle",
+            "fileManagerCookiesCouldNotFetch": "Dosya Yöneticisi Çerezleri\nYüklenemedi",
+            "itLooksLikeWeCouldNotFetchTheFileManagerCookies": "Görünüşe göre, dosya yöneticisi çerez bilgileri sunucudan yüklenemedi.\n\nGerekli çerez bilgilerini tekrar yüklemeyi deneyebilirsiniz, eğer tekrar yükleme işlemi tamamlanmıyorsa, lütfen biraz bekleyin ve daha sonra tekrar deneyin.",
+            "fetchCookies": "Çerez Bilgilerini Yükle",
+            "folderCouldNotLoadDueUnknownReasons": "Dosya Klasör Bilinmeyen Nedenlerden\nYüklenemedi",
+            "itLooksLikeWeCouldNotLoadTheFolder": "Görünüşe göre; dosya detayları, bilinmeyen nedenlerden ötürü yüklenemedi. Bu durumun bir çok nedeni olabilir bu yüzden, dosya detaylarını tekrar yüklemeyi deneyebilir yada biraz bekledikten sonra, dosya detaylarını tekrar yüklemeyi deneyebilirsiniz.",
+            "loadTheFolder": "Dosya Detaylarını Yükle",
+            "folderCouldNotLoadDueAuthTokenError": "Yetkilendirme Anahtarı Yüzünden\nDosya Yüklenemedi",
+            "itLooksLikeWeCouldNotLoadTheFolderDueAuthKey": "Görünüşe göre, dosya detaylarını, yetkilendirme anahtarı kaynaklı dosyaları yükleyemedik. Dosya yöneticisine tekrar giriş yapılması gerekiyor gerekebilir. Bu nedenle, dosya detaylarını tekrar yüklemeyi deneyebilir yada biraz bekledikten sonra dosya detaylarını yüklemeyi deneyebilirsiniz.",
+            "tryItAgain": "Tekrar Dene",
+            "folderDeletedOrMissing": "Dosya\nSilindi Ya Da Mevcut Değil",
+            "itLooksLikeWeCouldNotFoundTheFolder": "Görünüşe göre, detaylarını yüklemek istediğiniz dosyayı bulamadık. Bunun sebeblerinden bazıları; dosyanın silinmiş olabileceği ya da dosya dizinleri üzerinde bir durum güncellemesi olabilir. Bu sebeple önceki dosya dizinine dönebilirsiniz.",
+            "folderPermissionsRequired": "Dosya Detayları İçin\nYetkilendirilme Gerekmekte",
+            "itLooksLikeWeCouldNotLoadTheFolderDueFolderPermissions": "Görünüşe göre, dosya detaylarını, eksik yetkilendirme sebebiyle görüntüleyemiyoruz. Eğer dosya detaylarını görüntülemek istiyorsanız, If you wan't to show folder details, gerekli izinlere sahip olduğunuzdan emin olun.",
+            "previousFolder": "Önceki Dizin",
+            "fileManagerAuthenticationKeyError": "Dosya Yöneticisi Yetkilendirme\nAnahtar Hatası",
+            "itLooksLikeWeCouldNotDownloadTheFileDueAuthenticationKeyError": "Görünüşse göre, indirmek istediğiniz dosyayı yetkilendirme anahtarının süresi dolduğu için indiremedik.\n\nTekrar giriş yapılması gerekmekte.",
+            "reLogin": "Tekrar Giriş Yap",
+            "fileDeletedOrMissing": "Dosya\nSilindi Yada Kayıp",
+            "itLooksLikeWeCouldNotFoundTheFile": "Görünüşe göre indirmeye çalıştığınız dosyayı bulamadık. Bunun sebebi dosyanın silinmesi yada tekrar isimlendirilmesi olabilir. Bu nedenlerden dolayı, dosya elemanlarının tekrar yüklenmesi gerekmekte.",
+            "refreshTheFolder": "Klasörü Yenile"
+
+        },
+        "loadingScreen": {
+            "fileManagerInitializing": "Dosya Yöneticisi Yükleniyor\n...",
+            "loginCredentialsRequesting": "Giriş Bilgileri İsteniyor\n...",
+            "loginRequestSending": "Giriş Yapılıyor\n...",
+            "folderManagerInitializing": "Dosya Yöneticisi Önyükleniyor\n...",
+            "folderDetailsFetching": "Dosya Detayları Yükleniyor\n..."
+        }
+    },
+
+
+    "customSnackBar":{
+        "commonErrors": {
+            "authorizationFail": "Bir hata oluştu. Fcm anahtarı kabul edilmedi."
+        }
+    }
+}
